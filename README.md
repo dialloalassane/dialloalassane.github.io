@@ -1,4 +1,3 @@
-[![MasterHead](https://www.ptc.com/-/media/Images/blog/post/corporate/ai-role-transformation-900.jpg?h=450&iar=0&w=900)]
 
 <h1 align="center">Hi 👋, I'm Alassane Diallo</h1>
 <h3 align="center">A passionate Quantitative Researcher/Trader, Quantitative Developer, Datascientist,AI researcher, Entrepreneur, Writer</h3>
