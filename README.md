@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Foreign exchange and Fixed Income Derivatives and Risk Management**
 
-- 🌱 I’m currently learning **Deep Reinforcement learning for Option Market Making and Volatitily trading**
+- 🌱 I’m currently learning **Deep Reinforcement learning and its application in Finance(Market Making) and healthcare(medical imaging)*
 
 - 👯 I’m looking to collaborate on **Quantitative Trading Oriented Projects in the realm of FX ,  Fixed Income and Derivatives **
 
