@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alassane Diallo</h1>
-<h3 align="center">A passionate Quantitative Researcher/Trader, Risk Analyst, Quantitative Developer, Datascientist,AI researcher, Entrepreneur, Writer</h3>
+<h3 align="center">A passionate Quantitative Researcher/Trader, Risk Analyst, Quantitative Developer, Datascientist,AI researcher, Entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dialloalassane&label=Profile%20views&color=0e75b6&style=flat" alt="dialloalassane" /> </p>
 
@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Foreign exchange and Fixed Income Derivatives and Risk Management**
 
-- 🌱 I’m currently learning **Deep Reinforcement learning and its application in Option Market Making , and option and volatility trading related projects*
+- 🌱 I’m currently learning **Deep Reinforcement learning and its application in Market Making , ESG Investing*
 
-- 👯 I’m looking to collaborate on **Quantitative Trading Oriented Projects in the realm of FX ,  Fixed Income and Derivatives **
+- 👯 I’m looking to collaborate on **Quantitative Trading Oriented Projects in the realm of FX ,  Fixed Income **
 
-- 💬 Ask me about **Deep learning, Reinforcement learning, Bayesian Statistics, Economy of Money banking and Financial Market, Market Making, Stochastic Calculus, C++, python,Signal Processing for finance, Time series Analysis, Financial Risk Management, Regime Change in Computational Finance etc...**
+- 💬 Ask me about **Deep learning, Reinforcement learning, Bayesian Statistics, Economy of Money banking and Financial Market, Market Making, Stochastic Calculus, C++, Python,Signal Processing for finance, Time series Analysis, Financial Risk Management, Regime Change in Computational Finance etc...**
 
 - 📫 How to reach me **https://www.linkedin.com/in/alassane-d-18470a160/**
 
