@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Foreign exchange and Fixed Income Derivatives and Risk Management**
 
-- 🌱 I’m currently learning **Deep Reinforcement learning and its application in Market Making , ESG Investing*
+- 🌱 I’m currently learning : **Deep Reinforcement learning and its application in Finance and ESG Investing*
 
 - 👯 I’m looking to collaborate on **Quantitative Trading Oriented Projects in the realm of FX ,  Fixed Income **
 
