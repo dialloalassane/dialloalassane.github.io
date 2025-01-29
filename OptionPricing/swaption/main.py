@@ -35,6 +35,14 @@ def main():
   yield_curve = YieldCurve(settlement_date, curve_dates, zero_rates)
   
   hw_model = HullWhiteModel(yield_curve)
+
+  #Initialize market data
+  market_data = MarketData(settlement_date)
+    
+  # Plot the market volatility surface
+  plot_volatility_surface(market_data)
+
+   
   
   # Define Swaption
   notional = 1e6
